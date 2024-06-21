@@ -1,0 +1,17 @@
+{
+  "Sydney": {
+    "temperature": "22°C",
+    "humidity": "60%",
+    "description": "Sunny"
+  },
+  "Melbourne": {
+    "temperature": "18°C",
+    "humidity": "65%",
+    "description": "Cloudy"
+  },
+  "Brisbane": {
+    "temperature": "25°C",
+    "humidity": "70%",
+    "description": "Partly Cloudy"
+  }
+}
